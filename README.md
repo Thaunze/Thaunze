@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **micro-frontends and web assembly.**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js** and frontend development.
 
 - 📫 How to reach me **echvzb@gmail.com**
 
